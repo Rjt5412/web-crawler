@@ -8,7 +8,7 @@ A simple web crawler written in Javascript using Node.js
 2. Clone the repository and do an `npm install` to install project dependencies.
 3. To run the crawler, run the command: `npm run start <website URL>`.
 
-## Extension Ideas:
+## Extension Ideas
 
 - Make the script run on a timer and deploy it to a server. Have it email you every so often with a report.
 - Add more robust error checking so that you can crawl larger sites without issues.
